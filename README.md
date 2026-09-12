@@ -1,8 +1,10 @@
 # println!("hello world");
 
-💻 My current setup: [cursor, ghostty, zsh]
+💻 My current setup: [zed, ghostty, zsh]
 
 🚀 I like the backend side of the force, specially using [Go](https://go.dev/) and [Rust](https://www.rust-lang.org/).
+
+🧠 Playing with ML/AI
 
 🔥 Latest things I've been working on:
 - [Go Neural](https://github.com/herlon214/go-neural) - Experiments with neural networks in Go
