@@ -1,6 +1,6 @@
 # println!("hello world");
 
-💻 My current setup: [zed, ghostty, zsh]
+💻 My current setup: [zed, rex, zsh]
 
 🚀 I like the backend side of the force, specially using [Go](https://go.dev/) and [Rust](https://www.rust-lang.org/).
 
