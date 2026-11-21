@@ -7,6 +7,7 @@
 🧠 Playing with ML/AI
 
 🔥 Latest things I've been working on:
+- [Inkling 2 Mini RTX 5090](https://github.com/mxfp0/Inkling-2-Mini-RTX-5090) - Serve Inkling 2 Mini on a single RTX 5090 with vLLM, DSpark speculative decoding and the full 262K context.
 - [Actions Tray](https://github.com/mxfp0/actions-tray) - macOS menu bar app to keep an eye on GitHub Actions runs, built with SwiftUI.
 - [OpenCode Plugins](https://github.com/mxfp0/opencode-plugins) - Small terminal UI plugins for OpenCode, like a sidebar showing which skills are loaded.
 - [Go Neural](https://github.com/herlon214/go-neural) - Experiments with neural networks in Go
