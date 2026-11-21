@@ -8,6 +8,7 @@
 
 🔥 Latest things I've been working on:
 - [Actions Tray](https://github.com/mxfp0/actions-tray) - macOS menu bar app to keep an eye on GitHub Actions runs, built with SwiftUI.
+- [OpenCode Plugins](https://github.com/mxfp0/opencode-plugins) - Small terminal UI plugins for OpenCode, like a sidebar showing which skills are loaded.
 - [Go Neural](https://github.com/herlon214/go-neural) - Experiments with neural networks in Go
 - [Advent Of Code 2024](https://github.com/herlon214/advent-of-code-2024) - Trying to resolve 2024 challenge using Go.
 - [Advent Of Code 2023](https://github.com/herlon214/advent-of-code-2023) - Trying to resolve 2023 challenge using Python.
